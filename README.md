@@ -1,21 +1,24 @@
 <div align="center">
 
+# ⚡ Array DSA — Mastery Log
+
+### `Basics` → `Easy` → `Medium` · Striver A2Z + LeetCode
+
+![](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Python-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Platform-LeetCode%20%7C%20TUF-FF7F00?style=flat-square)
+![](https://img.shields.io/badge/Status-Active%20Grind%20🔥-brightgreen?style=flat-square)
 ```
-█████╗ ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝
-███████║██████╔╝██████╔╝███████║ ╚████╔╝ ███████╗
-██╔══██║██╔══██╗██╔══██╗██╔══██║  ╚██╔╝  ╚════██║
-██║  ██║██║  ██║██║  ██║██║  ██║   ██║   ███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
-         D S A  —  A R R A Y S  M A S T E R Y
+╔══════════════════════════════════════╗
+║  📂 Topic  →  Arrays                ║
+║  📊 Level  →  Basics to Medium      ║
+║  ✅ Solved →  14 Problems           ║
+╚══════════════════════════════════════╝
 ```
 
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](.)
-[![Streak](https://img.shields.io/badge/Consistent%20Grind-🔥%20Active-orange?style=for-the-badge)](.)
-[![Platform](https://img.shields.io/badge/Platforms-LeetCode%20%7C%20TUF-blue?style=for-the-badge)](.)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Python-red?style=for-the-badge&logo=cplusplus)](.)
+> *Consistency beats intensity — one problem at a time.*
 
-<br/>
+</div>
 
 > *"An array a day keeps the interview rejections away."*
 
@@ -105,8 +108,8 @@ TOTAL    ██████████  14/14  100% 🎯
 ```
 ┌─────────────────────────────────────────────┐
 │  💻 Editor   →  VS Code                     │
-│  🗣  Language →  C++ / Java / Python         │
-│  🧩 Platform →  LeetCode + TUF (Striver)    │
+│  🗣  Language →  C++ / Python         │
+│  🧩 Platform →  LeetCode / GFG    │
 │  📘 Sheet    →  Striver A2Z DSA Sheet       │
 └─────────────────────────────────────────────┘
 ```
