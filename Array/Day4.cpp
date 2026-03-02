@@ -5,72 +5,72 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// int getLongestSubarray(vector<int>& a, long long k){
-//     int n = a.size();
+int getLongestSubarray(vector<int>& a, long long k){
+    int n = a.size();
 
-//     int len = 0;
-//     for(int i=0; i<n; i++){
-//         for(int j=i; j<n; j++){
-//             long long s = 0;
-//             for(int K = i; K <= j; K++){
-//                 s += a[K];
-//             }
+    int len = 0;
+    for(int i=0; i<n; i++){
+        for(int j=i; j<n; j++){
+            long long s = 0;
+            for(int K = i; K <= j; K++){
+                s += a[K];
+            }
 
-//             if(s == k)
-//                 len = max(len,j-i+1);
-//         }
-//     }
-//     return len;
-// }
+            if(s == k)
+                len = max(len,j-i+1);
+        }
+    }
+    return len;
+}
 
-// // Better Approach
+// Better Approach
 
-// int getLongestSubarray(vector<int>& a, long long k){
-//     int n = a.size();
+int getLongestSubarray(vector<int>& a, long long k){
+    int n = a.size();
 
-//     int len = 0;
+    int len = 0;
 
-//     for(int i=0; i<n; i++){
-//         long long s = 0;
+    for(int i=0; i<n; i++){
+        long long s = 0;
 
-//         for(int j = i; j<n; j++){
-//             s += a[j];
+        for(int j = i; j<n; j++){
+            s += a[j];
 
-//             if(s == k)
-//                 len = max(len, j-i+1);
-//         }
-//     }
+            if(s == k)
+                len = max(len, j-i+1);
+        }
+    }
 
-//     return len;
-// }
+    return len;
+}
 
-// // optimal approach (using prefix sum + hash map)
+// optimal approach (using prefix sum + hash map)
 
-// int getLongestSubarray(vector<int>& a, long long k) { 
-//     int n = a.size(); 
+int getLongestSubarray(vector<int>& a, long long k) { 
+    int n = a.size(); 
  
-//     map<long long, int> preSumMap; 
-//     long long sum = 0; 
-//     int maxLen = 0; 
-//     for (int i = 0; i < n; i++) { 
-//         sum += a[i];
-//          if (sum == k) { 
-//             maxLen = max(maxLen, i + 1); 
-//         } 
+    map<long long, int> preSumMap; 
+    long long sum = 0; 
+    int maxLen = 0; 
+    for (int i = 0; i < n; i++) { 
+        sum += a[i];
+         if (sum == k) { 
+            maxLen = max(maxLen, i + 1); 
+        } 
  
-//         long long rem = sum - k; 
-//         if (preSumMap.find(rem) != preSumMap.end()) { 
-//             int len = i - preSumMap[rem]; 
-//             maxLen = max(maxLen, len); 
-//         } 
+        long long rem = sum - k; 
+        if (preSumMap.find(rem) != preSumMap.end()) { 
+            int len = i - preSumMap[rem]; 
+            maxLen = max(maxLen, len); 
+        } 
 
-//         if (preSumMap.find(sum) == preSumMap.end()) { 
-//             preSumMap[sum] = i; 
-//         } 
-//     } 
+        if (preSumMap.find(sum) == preSumMap.end()) { 
+            preSumMap[sum] = i; 
+        } 
+    } 
  
-//     return maxLen; 
-// }
+    return maxLen; 
+}
 
 // Using sliding window
 
