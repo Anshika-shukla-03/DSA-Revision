@@ -111,18 +111,6 @@ TOTAL    ██████████  14/14  100% 🎯
 └─────────────────────────────────────────────┘
 ```
 
-
-## 📅 Revision Schedule
-
-```
-Week 1  ──► Basics + Easy Review
-Week 2  ──► Medium Review + Pattern Identification
-Week 3  ──► Blind practice (no hints)
-Week 4  ──► Timed mock sessions
-```
-
----
-
 <div align="center">
 
 ### 🌟 The Grind is Real. The Growth is Realer.
