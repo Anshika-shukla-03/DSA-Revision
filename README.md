@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚡ Array DSA — Mastery Log
-
-### `Basics` → `Easy` → `Medium` · Striver A2Z + LeetCode
+# ⚡ Array DSA
 
 ![](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Python-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
