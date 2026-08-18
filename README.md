@@ -115,4 +115,12 @@ TOTAL    ██████████  14/14  100% 🎯
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0176-second-highest-salary) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
