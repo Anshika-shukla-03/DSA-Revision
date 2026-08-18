@@ -2,7 +2,7 @@
 
 # ⚡ Array DSA
 
-![](https://img.shields.io/badge/Language-CPython-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Language-C++-0a0a0aPython-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Platform-LeetCode%20%7C%20TUF-FF7F00?style=flat-square)
 ![](https://img.shields.io/badge/Status-Active%20Grind%20🔥-brightgreen?style=flat-square)
