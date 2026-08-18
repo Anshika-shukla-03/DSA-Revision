@@ -108,3 +108,11 @@ TOTAL    ██████████  14/14  100% 🎯
 **⭐ Star this repo if it helps your prep!**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0176-second-highest-salary) |
+<!---LeetCode Topics End-->
