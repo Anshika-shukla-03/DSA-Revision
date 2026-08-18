@@ -2,7 +2,7 @@
 
 # ⚡ Array DSA
 
-![](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Java%20%7C%20Python-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Language-CPython-0a0a0a?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Platform-LeetCode%20%7C%20TUF-FF7F00?style=flat-square)
 ![](https://img.shields.io/badge/Status-Active%20Grind%20🔥-brightgreen?style=flat-square)
@@ -86,20 +86,7 @@ MEDIUM   ██████████  5/5   100% ✅
 TOTAL    ██████████  14/14  100% 🎯
 ```
 
----
 
-## 🧠 Concepts Mastered
-
-| Technique | Problems Applied |
-|-----------|----------------|
-| `Two Pointers` | Remove Duplicates, Move Zeros, Union of Arrays |
-| `XOR Bitwise` | Single Number, Missing Number |
-| `Sliding Window` | Max Consecutive Ones, Longest Subarray |
-| `Prefix Sum + HashMap` | Longest Subarray (±) |
-| `Reversal Algorithm` | Left Rotate by D |
-| `Linear Traversal` | Largest, Second Largest, Sorted Check |
-
----
 
 ## 🛠️ Tech Stack
 
