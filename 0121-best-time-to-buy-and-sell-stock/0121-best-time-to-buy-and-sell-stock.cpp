@@ -20,21 +20,33 @@ public:
 
         // optimal approach 
 
+        // int n = prices.size();
+
+        // int i = 0;
+        // int j = 1;
+
+        // int profit = 0;
+
+        // while(j < n){
+        //     if(prices[j] < prices[i]){
+        //         i = j;
+        //     }
+        //     else{
+        //         profit = max(profit,prices[j] - prices[i]);
+        //     }
+        //     j++;
+        // }
+        // return profit;
+
+        // Greedy Approach 
+
         int n = prices.size();
-
-        int i = 0;
-        int j = 1;
-
+        int minPrice = prices[0];
         int profit = 0;
 
-        while(j < n){
-            if(prices[j] < prices[i]){
-                i = j;
-            }
-            else{
-                profit = max(profit,prices[j] - prices[i]);
-            }
-            j++;
+        for(int i = 1; i<n; i++){
+            minPrice = min(minPrice,prices[i]);
+            profit = max(profit,prices[i]-minPrice);
         }
         return profit;
     }
