@@ -120,10 +120,12 @@ TOTAL    ██████████  14/14  100% 🎯
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +146,8 @@ TOTAL    ██████████  14/14  100% 🎯
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
