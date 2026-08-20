@@ -118,6 +118,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -157,12 +158,14 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
