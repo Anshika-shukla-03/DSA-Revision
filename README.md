@@ -124,6 +124,7 @@ TOTAL    ██████████  14/14  100% 🎯
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
+| [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +165,5 @@ TOTAL    ██████████  14/14  100% 🎯
 | ------- |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
