@@ -143,6 +143,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
@@ -167,6 +168,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
@@ -214,5 +216,6 @@ TOTAL    ██████████  14/14  100% 🎯
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
