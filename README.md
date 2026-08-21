@@ -124,6 +124,7 @@ TOTAL    ██████████  14/14  100% 🎯
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@ TOTAL    ██████████  14/14  100% 🎯
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 ## Counting Sort
