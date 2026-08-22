@@ -118,6 +118,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -136,6 +137,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
@@ -175,6 +177,7 @@ TOTAL    ██████████  14/14  100% 🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,4 +222,12 @@ TOTAL    ██████████  14/14  100% 🎯
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
