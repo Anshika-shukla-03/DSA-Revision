@@ -162,6 +162,7 @@ BASICS ────────────────────────�
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
+| [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ BASICS ────────────────────────�
 | [0135-candy](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -210,6 +212,7 @@ BASICS ────────────────────────�
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -218,4 +221,8 @@ BASICS ────────────────────────�
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
