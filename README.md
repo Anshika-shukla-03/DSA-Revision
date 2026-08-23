@@ -74,18 +74,6 @@ BASICS ────────────────────────�
 | 13 | ➕ Longest Subarray — Sum K (Positive) | TUF | `Medium` | Sliding window |
 | 14 | ± Longest Subarray — Sum K (Pos + Neg) | TUF | `Medium` | HashMap + prefix sum |
 
----
-
-## 📊 Progress Tracker
-
-```
-BASICS   ██████████  3/3   100% ✅
-EASY     ██████████  6/6   100% ✅
-MEDIUM   ██████████  5/5   100% ✅
-
-TOTAL    ██████████  14/14  100% 🎯
-```
-
 
 
 ## 🛠️ Tech Stack
