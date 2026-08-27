@@ -115,6 +115,7 @@ BASICS ────────────────────────�
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0135-candy) |
+| [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
@@ -151,6 +152,7 @@ BASICS ────────────────────────�
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
@@ -264,4 +266,16 @@ BASICS ────────────────────────�
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
