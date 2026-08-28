@@ -137,6 +137,7 @@ BASICS ────────────────────────�
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
@@ -147,6 +148,7 @@ BASICS ────────────────────────�
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -176,6 +178,7 @@ BASICS ────────────────────────�
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -300,6 +303,7 @@ BASICS ────────────────────────�
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
