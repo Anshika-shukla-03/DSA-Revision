@@ -103,6 +103,7 @@ BASICS ────────────────────────�
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0176-second-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
