@@ -39,6 +39,7 @@
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
