@@ -37,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
@@ -154,10 +155,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
@@ -212,6 +215,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bucket Sort
 |  |
