@@ -33,6 +33,7 @@
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
@@ -159,6 +161,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
