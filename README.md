@@ -63,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0986-interval-list-intersections) |
@@ -217,11 +218,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
 | ------- |
