@@ -99,6 +99,7 @@
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -208,6 +210,7 @@
 | [0058-length-of-last-word](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -305,4 +308,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
