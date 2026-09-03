@@ -210,6 +210,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -220,6 +221,7 @@
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
