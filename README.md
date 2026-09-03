@@ -104,6 +104,7 @@
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -128,6 +129,7 @@
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -216,6 +218,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
