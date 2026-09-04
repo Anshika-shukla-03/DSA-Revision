@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0570-managers-with-at-least-5-direct-reports) |
