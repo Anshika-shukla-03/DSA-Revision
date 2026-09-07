@@ -73,6 +73,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -117,6 +118,7 @@
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +135,7 @@
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
@@ -150,6 +154,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
@@ -302,6 +307,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -369,9 +375,11 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
