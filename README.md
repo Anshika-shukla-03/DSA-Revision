@@ -191,6 +191,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
+| [3870-count-commas-in-range](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
