@@ -127,6 +127,7 @@
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
@@ -159,6 +160,7 @@
 | [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -277,6 +279,7 @@
 | [0125-valid-palindrome](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
