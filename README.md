@@ -305,6 +305,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -444,4 +445,16 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0039-combination-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
