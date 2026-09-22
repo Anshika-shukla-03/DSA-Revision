@@ -65,6 +65,7 @@
 | [0057-insert-interval](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0134-gas-station) |
@@ -130,6 +131,7 @@
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
@@ -153,6 +155,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0215-kth-largest-element-in-an-array) |
@@ -455,6 +458,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
@@ -485,6 +489,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
