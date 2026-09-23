@@ -100,6 +100,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -271,6 +273,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -349,6 +353,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bucket Sort
 |  |
