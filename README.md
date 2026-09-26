@@ -115,6 +115,7 @@
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
@@ -384,6 +385,7 @@
 | [0002-add-two-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0147-insertion-sort-list) |
