@@ -102,6 +102,7 @@
 | [0986-interval-list-intersections](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -215,6 +216,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3870-count-commas-in-range) |
@@ -290,6 +292,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
