@@ -139,6 +139,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
@@ -399,6 +400,7 @@
 | [0061-rotate-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
