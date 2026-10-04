@@ -235,6 +235,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -249,6 +250,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
@@ -316,6 +318,7 @@
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -331,6 +334,7 @@
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -433,6 +437,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
 | ------- |
