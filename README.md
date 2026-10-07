@@ -214,6 +214,7 @@
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
@@ -230,6 +231,7 @@
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -492,6 +494,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
@@ -523,6 +526,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
@@ -559,6 +563,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
