@@ -105,6 +105,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -192,6 +193,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
@@ -292,6 +295,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -478,6 +482,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
