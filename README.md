@@ -516,6 +516,7 @@
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
@@ -532,6 +533,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
@@ -548,6 +550,7 @@
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
@@ -562,6 +565,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
