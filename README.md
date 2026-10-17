@@ -116,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -234,6 +235,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
@@ -315,6 +317,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
@@ -599,4 +602,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
