@@ -72,6 +72,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -145,6 +146,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
@@ -244,6 +246,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
@@ -328,6 +331,7 @@
 | [0058-length-of-last-word](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0242-valid-anagram) |
@@ -376,6 +380,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
@@ -606,4 +611,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
