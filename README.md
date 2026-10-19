@@ -96,6 +96,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0875-koko-eating-bananas) |
@@ -250,6 +251,7 @@
 | [0198-house-robber](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
