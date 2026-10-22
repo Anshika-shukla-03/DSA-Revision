@@ -228,6 +228,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
@@ -250,6 +251,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0746-min-cost-climbing-stairs) |
@@ -586,6 +588,7 @@
 | [0112-path-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
@@ -626,4 +629,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
