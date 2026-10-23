@@ -95,6 +95,7 @@
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0746-min-cost-climbing-stairs) |
@@ -161,6 +162,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
@@ -198,6 +200,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
@@ -210,6 +213,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1189-maximum-number-of-balloons) |
@@ -269,6 +273,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0860-lemonade-change) |
@@ -501,6 +506,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
