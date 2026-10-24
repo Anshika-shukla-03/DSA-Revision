@@ -93,6 +93,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
@@ -200,6 +201,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
@@ -506,6 +508,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
