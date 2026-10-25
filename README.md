@@ -237,6 +237,7 @@
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -355,6 +356,7 @@
 | [0383-ransom-note](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
@@ -653,4 +655,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
