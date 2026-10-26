@@ -113,6 +113,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -208,6 +209,7 @@
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
