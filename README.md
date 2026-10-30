@@ -61,6 +61,7 @@
 | [0039-combination-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0057-insert-interval) |
@@ -185,6 +186,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0169-majority-element) |
@@ -261,6 +263,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0119-pascals-triangle-ii) |
