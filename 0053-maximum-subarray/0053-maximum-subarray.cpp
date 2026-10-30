@@ -15,12 +15,26 @@ public:
         // return ans;
 
         // dp Approach
-        vector<vector<int>> dp(2,vector<int>(nums.size()));
-        dp[0][0] = dp[1][0] = nums[0];
-        for(int i=1; i<nums.size(); i++){
-            dp[1][i] = max(nums[i],nums[i] + dp[1][i-1]);
-            dp[0][i] = max(dp[0][i-1],dp[1][i]);
+        // vector<vector<int>> dp(2,vector<int>(nums.size()));
+        // dp[0][0] = dp[1][0] = nums[0];
+        // for(int i=1; i<nums.size(); i++){
+        //     dp[1][i] = max(nums[i],nums[i] + dp[1][i-1]);
+        //     dp[0][i] = max(dp[0][i-1],dp[1][i]);
+        // }
+        // return dp[0].back();
+
+        // Kadane's algorithim
+
+        int currSum = 0;
+        int maxSum = INT_MIN;
+
+        for(int val : nums){
+            currSum += val;
+            maxSum = max(maxSum, currSum);
+            if(currSum < 0){
+                currSum = 0;
+            }
         }
-        return dp[0].back();
+        return maxSum;
     }
 };
