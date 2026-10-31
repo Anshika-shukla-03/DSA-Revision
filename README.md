@@ -149,6 +149,7 @@
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
@@ -476,6 +477,7 @@
 | [0147-insertion-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
