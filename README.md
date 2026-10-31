@@ -248,6 +248,7 @@
 | [0012-integer-to-roman](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0202-happy-number) |
@@ -269,6 +270,7 @@
 | [0045-jump-game-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -665,6 +667,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
