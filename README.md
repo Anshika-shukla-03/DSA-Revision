@@ -119,6 +119,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -187,6 +188,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -451,6 +453,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bucket Sort
 |  |
