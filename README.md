@@ -92,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0380-insert-delete-getrandom-o1) |
@@ -296,6 +297,7 @@
 | [0213-house-robber-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0740-delete-and-earn) |
@@ -654,6 +656,7 @@
 | [0127-word-ladder](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -700,10 +703,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
