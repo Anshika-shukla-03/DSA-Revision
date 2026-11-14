@@ -128,6 +128,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -516,6 +517,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Recursion
 |  |
 | ------- |
@@ -726,4 +728,8 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0797-all-paths-from-source-to-target) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
