@@ -302,6 +302,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0746-min-cost-climbing-stairs) |
@@ -406,6 +407,7 @@
 | [0392-is-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0767-reorganize-string) |
