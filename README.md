@@ -124,6 +124,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -238,6 +239,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -331,6 +333,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3789-minimum-cost-to-acquire-required-items) |
