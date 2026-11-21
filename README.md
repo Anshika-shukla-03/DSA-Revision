@@ -69,6 +69,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -294,6 +295,7 @@
 | [0053-maximum-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -432,6 +434,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
@@ -445,6 +448,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
@@ -568,6 +572,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
