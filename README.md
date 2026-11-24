@@ -130,6 +130,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -281,6 +282,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -487,6 +489,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -506,6 +509,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -749,4 +753,8 @@
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3674-minimum-operations-to-equalize-array) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
