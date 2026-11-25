@@ -115,6 +115,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0986-interval-list-intersections) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -580,6 +581,7 @@
 | [0085-maximal-rectangle](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -683,6 +685,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Lifting
 |  |
 | ------- |
