@@ -283,6 +283,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/1927-sum-game) |
+| [3360-stone-removal-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -744,6 +745,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/Anshika-shukla-03/DSA-Revision/tree/master/3360-stone-removal-game) |
 ## Graph Theory
 |  |
 | ------- |
